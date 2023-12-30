@@ -61,6 +61,11 @@
     ```sh
     npm run dev
 
+## 🔓 Credentials
+> 👉 For testing purposes
+- user@nextmail.com
+- 123456
+
 ## 📊 Usage
 Once the server starts, you can navigate to http://localhost:3000 to view the application. Explore the dynamic routes and interact with the API integrated features.
 
